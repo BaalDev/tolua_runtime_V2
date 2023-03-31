@@ -5,4 +5,4 @@
 
 编译教程可以参考：[点击这里](https://blog.csdn.net/linxinfa/article/details/118353526)
 
-如果遇到困难：联系QQ：578316598
+如果遇到困难：联系邮箱：578316598@qq.com
